@@ -5,7 +5,7 @@ from collections import*
 print('''欢迎来到2048游戏界面
 按空格键返回上一步
 按R键重新开始
-Programmed by ZhenweiChen
+Programmed by 
 ''')
 #加入锁死判断功能
 game_exam=game2048()
